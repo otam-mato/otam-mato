@@ -1,7 +1,7 @@
-### Hi there 👋, I'm Oleg!
-
 
 <img src="https://github.com/otam-mato/otam-mato/assets/113034133/4bfb9c95-3d91-4e95-bfb0-e059a7cb0320">
+
+### Hi there 👋, I'm Oleg!
 
 <a href="https://www.linkedin.com/in/omato/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG" /></a>
 
