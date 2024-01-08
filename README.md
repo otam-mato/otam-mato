@@ -99,9 +99,9 @@
 
 <div align='center'>
   
-    <h2> 🏆 GitHub Trophies </h2>
-    
-    ![](https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest)
+<h2> 🏆 GitHub Trophies </h2>
+
+![](https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest)
 
 </div>
 
