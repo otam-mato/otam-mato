@@ -105,7 +105,6 @@
   <img alig src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest" />
 </p>
 
-  ![](https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest) 
 
 </div>
 
