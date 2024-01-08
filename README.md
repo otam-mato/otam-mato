@@ -10,7 +10,6 @@
 
 <!-- <br><br>  -->
 
-Open for DevOps / Cloud / SoftwareDevelopmen roles => [Why?](https://www.yuqingwang.dev/)
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) 
 - I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course, see my solutions and certificates [here](https://github.com/yuqingwwang/FullStackOpen)
 
