@@ -13,7 +13,6 @@
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) 
 
 <p align="center">
-  
     <a href="https://www.credly.com/badges/5ea4d0d3-eeef-490f-b0b6-0b0fc211f6b3/linked_in_profile">
       <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="Linkedin Badge">
     </a>
