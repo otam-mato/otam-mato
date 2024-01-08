@@ -100,7 +100,7 @@
 <div align='center'>
 <h2> 🏆 GitHub Trophies </h2>
 
-![](https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequests)
+![](https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest)
 </div>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=yuqingwwang&icon=0&color=0)](https://visitcount.itsvg.in)
