@@ -23,6 +23,7 @@ Open for DevOps / Cloud / SoftwareDevelopmen roles => [Why?](https://www.yuqingw
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="Linkedin Badge">
 </a>
 
+![image](https://github.com/otam-mato/otam-mato/assets/113034133/53831793-9bee-4aef-a196-04c758c7dde5)
 
 
 
