@@ -21,12 +21,6 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
     </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img height="50" width="50" src="https://cdn.simpleicons.org/helm/blue" /><img src="https://skillicons.dev/icons?i=kubernetes,azure,docker,nodejs,mysql"/>
-  </a>
-</p>
-
 # Languages and Tools:
 <table><tr>
   <td valign="top" width="33%">
