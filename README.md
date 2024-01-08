@@ -31,7 +31,7 @@ Looking for Junoir Fullstack Developer roles => [Why?](https://www.yuqingwang.de
      </div>
   </td>
   
-  <td valign="top" width="33%">
+ <!-- <td valign="top" width="33%">
     <div align="center">
     <h4>Data Science</h4>
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
@@ -39,7 +39,7 @@ Looking for Junoir Fullstack Developer roles => [Why?](https://www.yuqingwang.de
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
     </div>
-  </td>
+  </td> -->
 
   <td valign="top" width="33%">
     <div align="center">  
