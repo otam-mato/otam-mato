@@ -35,7 +35,7 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
     <div align="center">  
       <h4>Languages</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=javascript,typescript"/>
+        <img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
       </a>  
      </div>
   </td>
