@@ -10,7 +10,7 @@
 
 <!-- <br><br>  -->
 
-- Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) 
+- Have a look at my [DevOps Project Gallery](https://yuqingwwang.github.io/project-gallery/) 
 
 <p align="center">
     <a href="https://www.credly.com/badges/5ea4d0d3-eeef-490f-b0b6-0b0fc211f6b3/linked_in_profile">
