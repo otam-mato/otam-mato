@@ -18,9 +18,6 @@ Open for DevOps / Cloud / SoftwareDevelopmen roles => [Why?](https://www.yuqingw
 <a href="https://www.credly.com/badges/5ea4d0d3-eeef-490f-b0b6-0b0fc211f6b3/linked_in_profile">
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="Linkedin Badge">
 </a>
-<a href="https://www.credly.com/earner/earned/badge/7443e107-8613-499b-a6d4-77a0ddb3df89">
-  <img src="https://github.com/otam-mato/otam-mato/assets/113034133/53831793-9bee-4aef-a196-04c758c7dde5" width="150" alt="Linkedin Badge">
-</a>
 <a href="https://www.credly.com/earner/earned/badge/9024321d-a326-4774-a200-22fe81cf8c25">
   <img src="https://github.com/otam-mato/otam-mato/assets/113034133/8f00f929-9e0d-49c5-80f6-4371ec9ed627" width="150" alt="Linkedin Badge">
 </a>
