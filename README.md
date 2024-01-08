@@ -13,18 +13,14 @@
 - Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/) 
 
 <p align="center">
-    
-![googlecybersec](https://github.com/otam-mato/otam-mato/assets/113034133/1151bc87-dca0-40be-a544-70261250c15b)
-    
-![googlecybersec](https://github.com/otam-mato/otam-mato/assets/113034133/1151bc87-dca0-40be-a544-70261250c15b)
     <a href="https://www.credly.com/badges/5ea4d0d3-eeef-490f-b0b6-0b0fc211f6b3/linked_in_profile">
       <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="Linkedin Badge">
-    </a><a href="https://github.com/otam-mato/otam-mato/assets/113034133/36a99014-38d4-4ae2-82bd-b64e32c585ff">
+    </a>
+    <a href="https://github.com/otam-mato/otam-mato/assets/113034133/36a99014-38d4-4ae2-82bd-b64e32c585ff">
       <img src="https://github.com/otam-mato/otam-mato/assets/113034133/587d8549-5860-4d2f-bb95-a71552e34803" width="160" alt="Linkedin Badge">
     </a>
 </p>
 
-![googlecybersec](https://github.com/otam-mato/otam-mato/assets/113034133/1151bc87-dca0-40be-a544-70261250c15b)
 
 # Languages and Tools:
 <table><tr>
