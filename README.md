@@ -100,9 +100,10 @@
 <div align='center'>
   
 <h2> 🏆 GitHub Trophies </h2>
-<p align="center">
-  <img width="500" src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
-</p>
+
+  <p align="center">
+    <img width="500" src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
+  </p>
 
 </div>
 
@@ -127,6 +128,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img width="500" src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
-</p>
+
