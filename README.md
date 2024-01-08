@@ -104,7 +104,12 @@ Markdown              6 hrs 52 mins   ▒░░░░░░░░░░░░░
  <table style="width: 100%;">
     <tr>
         <td valign="top" align="center">
-            <img src="https://streak-stats.demolab.com/?user=otam-mato=weekly&theme=blueberry&hide_border=false" style="max-width: 100%;">
+            <img src="https://streak-stats.demolab.com/?user=otam-mato&mode=weekly&theme=blueberry&hide_border=false" style="max-width: 100%;">
+        </td>
+    </tr>
+    <tr>
+        <td valign="top" align="center">
+            <img src="https://streak-stats.demolab.com/?user=yuqingwwang&mode=weekly&theme=blueberry&hide_border=false" style="max-width: 100%;">
         </td>
     </tr>
     <tr>
