@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/yuqingwang42/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG" /></a>
 
 
-👩‍💻 [Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort 28 Graduate
+👩‍💻 [Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort 30 
 
 <!-- <br><br>  -->
 
