@@ -1,4 +1,4 @@
-
+![file-sql](https://github.com/otam-mato/otam-mato/assets/113034133/8785348e-06ee-44c9-9cef-bc459d849710)
 <img src="https://github.com/otam-mato/otam-mato/assets/113034133/4bfb9c95-3d91-4e95-bfb0-e059a7cb0320">
 
 ### Hi there 👋, I'm Oleg!
@@ -35,11 +35,12 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
     <div align="center">  
       <h4>Languages</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,javascript,typescript"/>
+        <img src="https://skillicons.dev/icons?i=python,javascript,typescript"/><img height="50" width="50" src="https://github.com/otam-mato/otam-mato/assets/113034133/6d7ff61c-339c-4933-96c4-2b1450853953" />
       </a>  
      </div>
   </td>
-  
+
+
  <!-- <td valign="top" width="33%">
     <div align="center">
     <h4>Data Science</h4>
