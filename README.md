@@ -13,6 +13,7 @@
 - Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/) 
 
 <p align="center">
+    
 ![googlecybersec](https://github.com/otam-mato/otam-mato/assets/113034133/1151bc87-dca0-40be-a544-70261250c15b)
     
 ![googlecybersec](https://github.com/otam-mato/otam-mato/assets/113034133/1151bc87-dca0-40be-a544-70261250c15b)
