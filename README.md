@@ -128,5 +128,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img width="800" src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=3">
+  <img width="800" src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
 </p>
