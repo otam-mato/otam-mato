@@ -16,7 +16,7 @@
   <img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="Linkedin Badge">
 </a>
 <a href="https://www.credly.com/earner/earned/badge/9024321d-a326-4774-a200-22fe81cf8c25">
-  <img src="https://github.com/otam-mato/otam-mato/assets/113034133/8f00f929-9e0d-49c5-80f6-4371ec9ed627" width="150" alt="Linkedin Badge">
+  <img src="https://github.com/otam-mato/otam-mato/assets/113034133/8f00f929-9e0d-49c5-80f6-4371ec9ed627" height="150" alt="Linkedin Badge">
 </a>
 
 
