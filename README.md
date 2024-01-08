@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/omato/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG" /></a>
 
 
-👩‍💻 [Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort 30 
+👩‍💻 Currently upgrading my SoftwareDevelopment skills with [Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort 30 
 
 <!-- <br><br>  -->
 
