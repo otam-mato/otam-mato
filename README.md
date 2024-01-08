@@ -100,13 +100,13 @@
 <div align='center'>
   
 <h2> 🏆 GitHub Trophies </h2>
-
+<p align="center">
+  <img width="500" src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
+</p>
 
 </div>
 
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest" />
-</p>
+
 
 <!-- [![](https://visitcount.itsvg.in/api?id=yuqingwwang&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=yuqingwwang)-->
