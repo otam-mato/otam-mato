@@ -108,7 +108,6 @@
 <!-- [![](https://visitcount.itsvg.in/api?id=yuqingwwang&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=yuqingwwang)-->
 
-![](https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 <!--
 **otam-mato/otam-mato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
