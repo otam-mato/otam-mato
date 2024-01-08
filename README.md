@@ -78,7 +78,7 @@ Open for DevOps / Cloud / SoftwareDevelopmen roles => [Why?](https://www.yuqingw
    </td>
   </tr></table>  
 
-
+<!--
 ## Wakatime
 <!--START_SECTION:waka-->
 
@@ -98,7 +98,7 @@ Markdown              6 hrs 52 mins   ▒░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
+-->
 
 <div align='center'>
 <h2>📊 GitHub Stats:</h2>
