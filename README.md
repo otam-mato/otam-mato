@@ -71,7 +71,7 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
 <h2> 🏆 GitHub Trophies </h2>
 
   <p align="center">
-    <img width="500" src="https://github-profile-trophy.vercel.app/?username=otammato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
+    <img width="500" src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
   </p>
 
 </div>
