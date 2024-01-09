@@ -59,7 +59,7 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
     </tr>
     <tr>
         <td valign="bottom" align="center">
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otammato&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otam-mato&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
         </td>
     </tr>
   </table> 
@@ -71,7 +71,7 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
 <h2> 🏆 GitHub Trophies </h2>
 
   <p align="center">
-    <img width="500" src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
+    <img width="500" src="https://github-profile-trophy.vercel.app/?username=otammato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
   </p>
 
 </div>
@@ -79,7 +79,7 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
 
 
 <!-- [![](https://visitcount.itsvg.in/api?id=yuqingwwang&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?username=yuqingwwang)-->
+![](https://komarev.com/ghpvc/?username=otam-mato)-->
 
 
 <!--
