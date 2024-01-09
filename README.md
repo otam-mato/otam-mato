@@ -59,7 +59,7 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
     </tr>
     <tr>
         <td valign="bottom" align="center">
-            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otam-mato&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
+            <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otammato&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
         </td>
     </tr>
   </table> 
