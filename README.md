@@ -40,7 +40,7 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
     <div align="center">  
       <h4>Web Development and DataBases</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,nodejs,graphql,django"/><img src="https://skillicons.dev/icons?i=express,mysql,postgres,mongodb"/>
+        <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,graphql"/><img src="https://skillicons.dev/icons?i=django,mysql,postgres,mongodb"/>
     </div>
    </td>
   </tr></table>  
