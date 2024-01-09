@@ -32,7 +32,7 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
     <div align="center">  
       <h4>Languages</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python, bash, javascript"/><img height="50" width="50" src="https://github.com/otam-mato/otam-mato/assets/113034133/6d7ff61c-339c-4933-96c4-2b1450853953" />
+        <img src="https://skillicons.dev/icons?i=python,bash,javascript"/><img height="50" width="50" src="https://github.com/otam-mato/otam-mato/assets/113034133/6d7ff61c-339c-4933-96c4-2b1450853953" />
       </a>  
      </div>
   </td>
