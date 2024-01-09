@@ -40,18 +40,10 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
     <div align="center">  
       <h4>Web Development</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,nodejs,graphql,django"/><img height="50" width="50" src="https://github.com/otam-mato/otam-mato/assets/113034133/6d7ff61c-339c-4933-96c4-2b1450853953" />
-      </a>
-       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=express,mysql,postgres,mongodb"/><img height="50" width="50" src="https://github.com/otam-mato/otam-mato/assets/113034133/6d7ff61c-339c-4933-96c4-2b1450853953" />
-      </a> 
+        <img src="https://skillicons.dev/icons?i=html,css,nodejs,graphql,django"/><img height="50" width="50" src="https://github.com/otam-mato/otam-mato/assets/113034133/6d7ff61c-339c-4933-96c4-2b1450853953" /><img src="https://skillicons.dev/icons?i=express,mysql,postgres,mongodb"/>
     </div>
    </td>
   </tr></table>  
-
-
-
-
 
 
 <div align='center'>
