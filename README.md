@@ -39,6 +39,9 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
   <td valign="top" width="33%">
     <div align="center">  
       <h4>Web Development</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,express,graphql"/><img height="50" width="50" src="https://github.com/otam-mato/otam-mato/assets/113034133/6d7ff61c-339c-4933-96c4-2b1450853953" />
+      </a>  
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
