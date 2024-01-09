@@ -95,7 +95,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://streak-stats.demolab.com/?user=otam-mato&mode=weekly&theme=blueberry&hide_border=false" style="max-width: 100%;">
 
-
-
+<img width="500" src="https://github-profile-trophy.vercel.app/?username=otam-mato&theme=onedark&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,Experience,PullRequest&column=4">
