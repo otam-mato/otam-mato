@@ -95,4 +95,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://streak-stats.demolab.com/?user=otam-mato&mode=weekly&theme=blueberry&hide_border=false" style="max-width: 100%;">
+
+
 
