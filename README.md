@@ -96,5 +96,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-            <img src="https://streak-stats.demolab.com/?user=otam-mato&mode=weekly&theme=blueberry&hide_border=false" style="max-width: 100%;">
+
+<img src="https://streak-stats.demolab.com/?user=otam-mato&mode=weekly&theme=blueberry&hide_border=false" style="max-width: 100%;">
 
