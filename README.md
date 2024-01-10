@@ -42,7 +42,7 @@ Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/
     <div align="center">  
       <h4>Web Development and DataBases</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,graphql"/><img src="https://skillicons.dev/icons?i=django,nginx,mysql,postgres,mongodb"/><img src="https://skillicons.dev/icons?i=apache"/>
+        <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,graphql"/><img src="https://skillicons.dev/icons?i=django,nginx,mysql,postgres,mongodb"/><img height="50" width="50" src="https://github.com/otam-mato/otam-mato/assets/113034133/0aef28db-c15e-4e0b-b93f-ea658b3335ae" />
     </div>
    </td>
   </tr></table>  
