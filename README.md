@@ -12,7 +12,7 @@
 
 <!-- <br><br>  -->
 
-Have a look at my [Project Gallery](https://otam-mato.github.io/project-gallery/) 
+Have a look at my [Project Gallery](https://github.com/otam-mato/projects_landing_page/blob/main/README.md) 
 
 <p align="center">
     <a href="https://www.credly.com/badges/5ea4d0d3-eeef-490f-b0b6-0b0fc211f6b3/linked_in_profile">
