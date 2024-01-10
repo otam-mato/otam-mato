@@ -97,5 +97,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://streak-stats.demolab.com/?user=otammato&mode=monthlyy&hide_border=false" style="max-width: 100%;">
-
