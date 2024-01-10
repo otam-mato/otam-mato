@@ -76,7 +76,7 @@ Have a look at my [Project Gallery](https://github.com/otam-mato/projects_landin
 </div>
 
 <p align="center">
-    <img width="500" src="https://github.r2v.ch/codewars?user=damato&top_languages=true">
+    <img width="500" src="https://github.r2v.ch/codewars?user=damato&top_languages=true&name=true">
 </p>
 
 
