@@ -1,6 +1,3 @@
-
-![Codewars](https://github.r2v.ch/codewars?user=damato&top_languages=true)
-
 <img src="https://github.com/otam-mato/otam-mato/assets/113034133/4bfb9c95-3d91-4e95-bfb0-e059a7cb0320">
 
 ### Hi there 👋, I'm Oleg!
@@ -77,6 +74,10 @@ Have a look at my [Project Gallery](https://github.com/otam-mato/projects_landin
   </p>
 
 </div>
+
+<p align="center">
+    ![Codewars](https://github.r2v.ch/codewars?user=damato&top_languages=true)
+</p>
 
 
 
