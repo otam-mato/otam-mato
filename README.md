@@ -2,7 +2,7 @@
 
 ### Hi there 👋, I'm Oleg!
 
-### A big fan of fresh coffee and automation
+### A big fan of fresh coffee, reusable code and automation
 
 <a href="https://www.linkedin.com/in/omato/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG" /></a>
 
